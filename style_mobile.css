@@ -1,0 +1,8 @@
+body {
+    background: #fff;
+}
+
+.narrowcolumn .post {
+    background: #acacac;
+    border-bottom: 1px solid #ccc;
+}
